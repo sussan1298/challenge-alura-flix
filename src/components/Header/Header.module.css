@@ -1,0 +1,12 @@
+.headerContainer {
+    padding: 1.5em 3em;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.linksContainer {
+    display: flex;
+    gap: 16px;
+}

@@ -1,0 +1,41 @@
+.cardContainer {
+    background: url("./banner.png");
+    padding: 8em 2em;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+    color: white;
+    margin: 0;
+}
+
+.textConatiner {
+    width: 665px;
+}
+
+.textConatiner h1 {
+    font-size: 38px;
+    background: var(--color-frontend);
+    box-sizing: border-box;
+    width: 295px;
+    padding: 0.5em;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.textConatiner h2 {
+    font-size: 38px;
+    font-weight: 300;
+}
+
+.textConatiner p {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+}
+
+.cardContainer img {
+    height: auto;
+    width: 647px;
+    border-radius: 15px;
+}

@@ -1,0 +1,110 @@
+.overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.modalDialog {
+    position: fixed;
+    top: 50px;
+    background: var(--azul-oscuro);
+    border: 2px solid var(--azul-claro);
+    border-radius: 20px;
+    padding: 0;
+    width: 37vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.videoForm {
+    padding: 1em;
+    width: 70%;
+}
+
+.videoForm h2 {
+    color: var(--azul-claro);
+    font-size: 40px;
+    margin: 0 0 12px;
+
+}
+
+.cerrarModal{
+    margin-left: 100%;
+    width: 30px;
+    height: 30px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    border: 2px solid white;
+    border-radius: 150px;
+    color: white;
+    text-align: center;
+}
+
+.inputGroup {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 12px;
+    margin-bottom: 16px;
+}
+
+.inputGroup label {
+    color: white;
+    font-size: 20px;
+}
+
+.inputGroup input {
+    padding: 1em;
+    border: 2px solid var(--azul-claro);
+    border-radius: 10px;
+    background: transparent;
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+.inputGroup select {
+    padding: 1em;
+    border: 2px solid var(--azul-claro);
+    border-radius: 10px;
+    background: transparent;
+    color: rgb(135, 135, 135);
+}
+
+.inputGroup textarea {
+    padding: 1em;
+    border: 2px solid var(--azul-claro);
+    border-radius: 10px;
+    background: transparent;
+    color: white;
+}
+
+.formButtons {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.formButtons button {
+    border-radius: 4px;
+    padding: 1em;
+    width: 40%;
+    border: 2px solid var(--azul-claro);
+    color: white;
+    cursor: pointer;
+}
+
+.guardar {
+    background: var(--azul-claro);
+}
+
+.limpiar {
+    background: transparent;
+}
+

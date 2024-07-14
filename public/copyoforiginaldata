@@ -1,0 +1,86 @@
+{
+    "videos": [
+      {
+        "id": "1",
+        "titulo": "Hooks de React: useEffect",
+        "categoria": "frontend",
+        "imagen": "/images/hooksdereactuseeffect.jpg",
+        "video": "https://www.youtube.com/watch?v=9xlea2yDFaY",
+        "descripcion": "Lorem ipsum dolor Hooks de React: useEffect"
+      },
+      {
+        "id": "2",
+        "titulo": "Desarrollador Frontend",
+        "categoria": "frontend",
+        "imagen": "/images/desarrolladorfrontend.jpg",
+        "video": "https://www.youtube.com/watch?v=-Ou5c3A225k",
+        "descripcion": "Lorem ipsum dolor Desarrollador Frontend draco dormiens nunquam tittilandus"
+      },
+      {
+        "id": "3",
+        "titulo": "Curriculum",
+        "categoria": "innovacion",
+        "imagen": "/images/curriculum.jpg",
+        "video": "https://www.youtube.com/watch?v=nzVdLC_QpnA",
+        "descripcion": "Lorem ipsum dolor Curriculum draco dormiens nunquam tittilandus"
+      },
+      {
+        "id": "4",
+        "titulo": "Que es SQL y NOSQL",
+        "categoria": "backend",
+        "imagen": "/images/queessqlynosql.jpg",
+        "video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+        "descripcion": "Lorem ipsum dolor Que es SQL y NOSQL draco dormiens nunquam tittilandus"
+      },
+      {
+        "id": "5",
+        "titulo": "Por que estudiar Data Science",
+        "categoria": "backend",
+        "imagen": "/images/porqueestudiardatascience.jpg",
+        "video": "https://www.youtube.com/watch?v=7_UXo-aqAeM",
+        "descripcion": "Lorem ipsum dolor Por que estudiar Data Science draco dormiens nunquam tittilandus"
+      },
+      {
+        "id": "6",
+        "titulo": "Backend",
+        "categoria": "backend",
+        "imagen": "/images/backend.jpg",
+        "video": "https://www.youtube.com/watch?v=XuSXJ9DUcvY",
+        "descripcion": "Lorem ipsum dolor Backend draco dormiens nunquam tittilandus"
+      },
+      {
+      "id": "7",
+      "titulo": "CSS como utilizar el display block inline inline block",
+      "categoria": "frontend",
+      "imagen": "/images/CSScomoutilizareldisplayblockinlineinlineblock.jpg",
+      "video": "https://www.youtube.com/watch?v=AG2QssLpQzI",
+      "descripcion": "Lorem ipsum dolor CSS como utilizar el display block inline inline block draco dormiens nunquam tittilandus"
+    },
+    {
+      "id": "8",
+      "titulo": "LinkedIn",
+      "categoria": "innovacion",
+      "imagen": "/images/linkedin.jpg",
+      "video": "https://www.youtube.com/watch?v=N9vxfMJEyYg",
+      "descripcion": "Lorem ipsum dolor LinkedIn draco dormiens nunquam tittilandus"
+    },
+    {
+      "id": "9",
+      "titulo": "Que son las Soft Skills",
+      "categoria": "innovacion",
+      "imagen": "/images/quesonlassoftskills.jpg",
+      "video": "https://www.youtube.com/watch?v=vhwspfvI52k",
+      "descripcion": "Lorem ipsum dolor ue son las Soft Skills draco dormiens nunquam tittilandus"
+    },
+    {
+      "id": "10",
+      "titulo": "Scrum Master",
+      "categoria": "innovacion",
+      "imagen": "/images/scrummaster.jpg",
+      "video": "https://www.youtube.com/watch?v=hamjv6G5shY",
+      "descripcion": "Lorem ipsum dolor scrummaster draco dormiens nunquam tittilandus"
+    }
+    ]
+  }
+  
+  

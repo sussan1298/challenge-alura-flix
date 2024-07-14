@@ -1,0 +1,34 @@
+.sectionContainer {
+    background: black;
+    margin: 0;
+    padding: 1em 3em;
+}
+
+.title {
+    font-size: 30px;
+    padding: 0.5em;
+    color: white;
+    width: 425px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 15px;
+}
+
+.title-backend {
+    background-color: var(--color-backend);
+}
+
+.title-frontend {
+    background-color: var(--color-frontend);
+}
+
+.title-innovacion {
+    background-color: var(--color-innyges);
+}
+
+.videosContainer {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-bottom: 5em;
+}
