@@ -1,6 +1,6 @@
 async function EditarVideo(id, videoEditado, setVideos) {
     try {
-        const response = await fetch(`https://my-json-server.typicode.com/sussan1298/alura-flix-api/videos/${id}`, {
+        const response = await fetch(`http://localhost:3000/videos/${id}`, {
             method: 'PUT',
             headers: {
                 'Content-Type': 'application/json',

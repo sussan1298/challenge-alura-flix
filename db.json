@@ -49,36 +49,37 @@
       "descripcion": "Lorem ipsum dolor Backend draco dormiens nunquam tittilandus"
     },
     {
-      "id": "7",
-      "titulo": "CSS como utilizar el display block inline inline block",
-      "categoria": "frontend",
-      "imagen": "/images/CSScomoutilizareldisplayblockinlineinlineblock.jpg",
-      "video": "https://www.youtube.com/watch?v=AG2QssLpQzI",
-      "descripcion": "Lorem ipsum dolor CSS como utilizar el display block inline inline block draco dormiens nunquam tittilandus"
-    },
-    {
-      "id": "8",
-      "titulo": "LinkedIn",
-      "categoria": "innovacion",
-      "imagen": "/images/linkedin.jpg",
-      "video": "https://www.youtube.com/watch?v=N9vxfMJEyYg",
-      "descripcion": "Lorem ipsum dolor LinkedIn draco dormiens nunquam tittilandus"
-    },
-    {
-      "id": "9",
-      "titulo": "Que son las Soft Skills",
-      "categoria": "innovacion",
-      "imagen": "/images/quesonlassoftskills.jpg",
-      "video": "https://www.youtube.com/watch?v=vhwspfvI52k",
-      "descripcion": "Lorem ipsum dolor ue son las Soft Skills draco dormiens nunquam tittilandus"
-    },
-    {
-      "id": "10",
-      "titulo": "Scrum Master",
-      "categoria": "innovacion",
-      "imagen": "/images/scrummaster.jpg",
-      "video": "https://www.youtube.com/watch?v=hamjv6G5shY",
-      "descripcion": "Lorem ipsum dolor scrummaster draco dormiens nunquam tittilandus"
-    }
+    "id": "7",
+    "titulo": "CSS como utilizar el display block inline inline block",
+    "categoria": "frontend",
+    "imagen": "/images/CSScomoutilizareldisplayblockinlineinlineblock.jpg",
+    "video": "https://www.youtube.com/watch?v=AG2QssLpQzI",
+    "descripcion": "Lorem ipsum dolor CSS como utilizar el display block inline inline block draco dormiens nunquam tittilandus"
+  },
+  {
+    "id": "8",
+    "titulo": "LinkedIn",
+    "categoria": "innovacion",
+    "imagen": "/images/linkedin.jpg",
+    "video": "https://www.youtube.com/watch?v=N9vxfMJEyYg",
+    "descripcion": "Lorem ipsum dolor LinkedIn draco dormiens nunquam tittilandus"
+  },
+  {
+    "id": "9",
+    "titulo": "Que son las Soft Skills",
+    "categoria": "innovacion",
+    "imagen": "/images/quesonlassoftskills.jpg",
+    "video": "https://www.youtube.com/watch?v=vhwspfvI52k",
+    "descripcion": "Lorem ipsum dolor ue son las Soft Skills draco dormiens nunquam tittilandus"
+  },
+  {
+    "id": "10",
+    "titulo": "Scrum Master",
+    "categoria": "innovacion",
+    "imagen": "/images/scrummaster.jpg",
+    "video": "https://www.youtube.com/watch?v=hamjv6G5shY",
+    "descripcion": "Lorem ipsum dolor scrummaster draco dormiens nunquam tittilandus"
+  }
   ]
 }
+

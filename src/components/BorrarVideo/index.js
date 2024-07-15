@@ -3,7 +3,7 @@ import { useContext } from "react";
 async function BorrarVideo(id, setVideos) {
 
     try {
-        const response = await fetch(`https://my-json-server.typicode.com/sussan1298/alura-flix-api/videos/${id}`, { // Hay que incluir el ID en la URL o si no no funciona
+        const response = await fetch(`http://localhost:3000/videos/${id}`, { // Hay que incluir el ID en la URL o si no no funciona
             method: 'DELETE',
         });
 

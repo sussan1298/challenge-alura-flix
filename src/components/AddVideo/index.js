@@ -4,7 +4,7 @@
 async function AddVideo(nuevoVideo, setVideos) {
 
     try {
-        const response = await fetch('https://my-json-server.typicode.com/sussan1298/alura-flix-api/videos', {
+        const response = await fetch('http://localhost:3000/videos', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
